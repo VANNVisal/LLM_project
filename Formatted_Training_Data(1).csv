@@ -1,0 +1,841 @@
+prompt,response
+"User: ['កូនរ៉ូបូតទៅមុខចំងាយដប់ក្បៀសប៉ែតសិបបួនម៉ែត្រ', 'តោះទៅបន្ថែមទៀត', 'មកវិញ']                                                      
+AI:","[{'action': 'move', 'params': {'distance':  10.84, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  10.84, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  21.68, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['មករ៉ូបូតទៅមុខមួយក្បៀសសាមសិបពីរម៉ែត្រ', 'ធ្វើដំណើរទៅទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                             
+AI:","[{'action': 'move', 'params': {'distance':  1.32, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  1.32, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  2.64, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតផ្លាស់ទីទៅមុខសែសិបប្រាំមួយក្បៀសប្រាំពីរម៉ែត្រ', 'រ៉ូបូតយើងបន្តទៅមុខទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                 
+AI:","[{'action': 'move', 'params': {'distance':  46.07, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  46.07, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  92.14, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខចំងាយម្ភៃក្បៀសម្ភៃប្រាំបួនម៉ែត្រ', 'តោះទៅថែមទៀត', 'បើកទៅវិញ']                                                     
+AI:","[{'action': 'move', 'params': {'distance':  20.29, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  20.29, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  40.58, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតទៅមុខដប់ពីរក្បៀសចិតសិបប្រាំបួនម៉ែត្រ', 'បើកទៀត', 'ថយក្រោយមកវិញ']                                                      
+AI:","[{'action': 'move', 'params': {'distance':  12.79, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  12.79, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  25.58, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ផ្លាស់ទីទៅមុខសែសិបពីរក្បៀសហុកសិបប្រាំបួនម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                         
+AI:","[{'action': 'move', 'params': {'distance':  42.69, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  42.69, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  85.38, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['កូនរ៉ូបូតទៅមុខសែសិបប្រាំមួយក្បៀសដប់ម៉ែត្រ', 'បន្តទៅមុខបន្ថែមទៀត', 'រ៉ូបូតថយមកវិញ']                                                 
+AI:","[{'action': 'move', 'params': {'distance':  46.1, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  46.1, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  92.2, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ចូលអ្នកទៅមុខប្រាំមួយក្បៀសប៉ែតសិបពីរម៉ែត្រ', 'ទៅមុខបន្ថែមទៀត', 'ថយមកកន្លែងដើមវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance':  6.82, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  6.82, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  13.64, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខម្ភៃបួនក្បៀសម្ភៃមួយម៉ែត្រ', 'បន្តរដំណើរទៅមុខទៀត', 'រួចហើយថយមកវិញ']                                                  
+AI:","[{'action': 'move', 'params': {'distance':  24.21, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  24.21, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  48.42, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['កូនរ៉ូបូតទៅមុខសែសិបបួនក្បៀសបួនម៉ែត្រ', 'បន្តទៅមុខបន្ថែមទៀត', 'បើកមកក្រោយវិញ']                                                  
+AI:","[{'action': 'move', 'params': {'distance':  44.04, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  44.04, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  88.08, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះជិះទៅមុខម្ភៃមួយក្បៀសហុកសិបប្រាំពីរម៉ែត្រ', 'ជិះទៅមុខទៀត', 'ទៅថយទៅវិញ']                                                     
+AI:","[{'action': 'move', 'params': {'distance':  21.67, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  21.67, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  43.34, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខប្រវែងមុខដប់ពីរក្បៀសហុកសិបប្រាំម៉ែត្រ', 'ទៅ', 'ថយទៅវិញ']                                                               
+AI:","[{'action': 'move', 'params': {'distance':  12.65, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  12.65, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  25.3, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['កូនរ៉ូបូតទៅមុខចំងាយប្រាំបីក្បៀសកៅសិបម៉ែត្រ', 'តោះទៅបន្ថែមទៀត', 'ទៅវិញ']                                                       
+AI:","[{'action': 'move', 'params': {'distance':  8.9, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  8.9, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  17.8, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខប្រវែងមុខម្ភៃពីរក្បៀសសែសិបបួនម៉ែត្រ', 'តោះទៅទៀតទៅ', 'ថយទៅវិញ']                                                       
+AI:","[{'action': 'move', 'params': {'distance':  22.44, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  22.44, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  44.88, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខប្រាំបីក្បៀសកៅសិបបីម៉ែត្រ', 'ទៅទៀតទៅ', 'រួចថយក្រោយមកវិញ']                                                             
+AI:","[{'action': 'move', 'params': {'distance':  8.93, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  8.93, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  17.86, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខសែសិបបីក្បៀសសែសិបប្រាំបីម៉ែត្រ', 'បន្តរដំណើរទៅទៀត', 'រួចហើយថយមកវិញ']                                                 
+AI:","[{'action': 'move', 'params': {'distance':  43.48, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  43.48, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  86.96, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះជិះទៅមុខម្ភៃក្បៀសប្រាំពីរម៉ែត្រ', 'បើកទៅមុខទៀត', 'ថយទៅវិញ']                                                            
+AI:","[{'action': 'move', 'params': {'distance':  20.07, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  20.07, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  40.14, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះជិះទៅមុខដប់ក្បៀសសែសិបពីរម៉ែត្រ', 'រ៉ូបូតជិះទៅមុខទៀត', 'ទៅថយទៅវិញ']                                                        
+AI:","[{'action': 'move', 'params': {'distance':  10.42, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  10.42, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  20.84, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខសែសិបប្រាំក្បៀសសាមសិបបីម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'រួចហើយថយមកវិញ']                                                    
+AI:","[{'action': 'move', 'params': {'distance':  45.33, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  45.33, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  90.66, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះទៅដប់មួយក្បៀសកៅសិបប្រាំមួយម៉ែត្រ', 'ទៅមុខទៀត', 'ថយមកវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance':  11.96, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  11.96, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  23.92, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតទៅមុខប្រាំបួនក្បៀសប៉ែតសិបបួនម៉ែត្រ', 'រ៉ូបូតបន្តបើកទៅទៀត', 'មកវិញ']                                                     
+AI:","[{'action': 'move', 'params': {'distance':  9.84, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  9.84, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  19.68, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតធ្វើដំណើរទៅមុខប្រាំពីរក្បៀសហុកសិបប្រាំម៉ែត្រ', 'រ៉ូបូតបន្តបើកទៅទៀត', 'ចូលអ្នកថយទៅវិញ']                                       
+AI:","[{'action': 'move', 'params': {'distance':  7.65, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  7.65, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  15.3, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['កូនរ៉ូបូតទៅមុខចម្ងាយដប់ប្រាំពីរក្បៀសសែសិបពីរម៉ែត្រ', 'តោះទៀត', 'បើកមកក្រោយវិញ']                                                 
+AI:","[{'action': 'move', 'params': {'distance':  17.42, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  17.42, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  34.84, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ចូលទៅមុខសែសិបមួយក្បៀសប្រាំម៉ែត្រ', 'ទៅមុខបន្តទៀត', 'ថយមកវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance':  41.05, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  41.05, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  82.1, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ចូលទៅមុខសែសិបបួនក្បៀសសាមសិបប្រាំមួយម៉ែត្រ', 'ទៅមុខបន្តទៀត', 'ថយមកកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance':  44.36, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  44.36, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  88.72, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខនោះដប់ក្បៀសប៉ែតសិបពីរម៉ែត្រ', 'បន្តទៀត', 'រ៉ូបូតថយមកក្រោយវិញ']                                                          
+AI:","[{'action': 'move', 'params': {'distance':  10.82, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  10.82, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  21.64, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ចូលទៅមុខដប់ប្រាំពីរក្បៀសកៅសិបប្រាំពីរម៉ែត្រ', 'ទៅមុខបន្តទៀត', 'ថយមកកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance':  17.97, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  17.97, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  35.94, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['មករ៉ូបូតទៅមុខសាមសិបក្បៀសម្ភៃបួនម៉ែត្រ', 'ធ្វើដំណើរទៅទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                            
+AI:","[{'action': 'move', 'params': {'distance':  30.24, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  30.24, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  60.48, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះធ្វើដំណើរទៅមុខម្ភៃប្រាំបីក្បៀសម្ភៃប្រាំពីរម៉ែត្រ', 'រ៉ូបូតបើកបន្តទៅមុខទៀត', 'មកថយទៅវិញ']                                        
+AI:","[{'action': 'move', 'params': {'distance':  28.27, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  28.27, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  56.54, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['ផ្លាស់ទីទៅមុខប្រាំបួនក្បៀសម្ភៃប្រាំពីរម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance':  9.27, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  9.27, 'is_forward':  true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance':  18.54, 'is_forward':  false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយបន្តទៀត មួយ ក្បៀសប្រាំបួន ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយ', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                    
+AI:","[{'action': 'move', 'params': {'distance': 1.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត បី ក្បៀសសូន្យ ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយបន្តទៀត', 'មកវិញ']                                                   
+AI:","[{'action': 'move', 'params': {'distance': 3.0, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.0, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.0, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយ ប្រាំបួន ក្បៀសប្រាំបី ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយ', 'មកកន្លែងដើមវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance': 9.8, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.8, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.6, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត បួន ក្បៀសមួយ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                 
+AI:","[{'action': 'move', 'params': {'distance': 4.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយ ប្រាំពីរ ក្បៀសប្រាំ ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'មកកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance': 7.5, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.5, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 15.0, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយបន្តទៀត ប្រាំពីរ ក្បៀសប្រាំបួន ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយ', 'មកវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance': 7.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 15.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ ពីរ ក្បៀសពីរ ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'មកកន្លែងដើមវិញ']                                                
+AI:","[{'action': 'move', 'params': {'distance': 2.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ មួយ ក្បៀសពីរ ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'មកកន្លែងដើមវិញ']                                            
+AI:","[{'action': 'move', 'params': {'distance': 1.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ ប្រាំមួយ ក្បៀសប្រាំមួយ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'មកកន្លែងដើមវិញ']                                      
+AI:","[{'action': 'move', 'params': {'distance': 6.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ ប្រាំ ក្បៀសបួន ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'តោះទៅកន្លែងដើមវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance': 5.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយបន្តទៀត ប្រាំបួន ក្បៀសប្រាំបួន ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                
+AI:","[{'action': 'move', 'params': {'distance': 9.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ ប្រាំបី ក្បៀសប្រាំបួន ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'មកកន្លែងដើមវិញ']                                          
+AI:","[{'action': 'move', 'params': {'distance': 8.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយទៀត ពីរ ក្បៀសប្រាំពីរ ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                       
+AI:","[{'action': 'move', 'params': {'distance': 2.7, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.7, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ ពីរ ក្បៀសពីរ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'មកវិញ']                                                    
+AI:","[{'action': 'move', 'params': {'distance': 2.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត ប្រាំបួន ក្បៀសបួន ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                     
+AI:","[{'action': 'move', 'params': {'distance': 9.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 18.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត ប្រាំ ក្បៀសប្រាំ ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                     
+AI:","[{'action': 'move', 'params': {'distance': 5.5, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.5, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.0, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយទៀត ប្រាំមួយ ក្បៀសមួយ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយ', 'តោះទៅកន្លែងដើមវិញ']                                         
+AI:","[{'action': 'move', 'params': {'distance': 6.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត ប្រាំមួយ ក្បៀសបួន ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'តោះទៅកន្លែងដើមវិញ']                                 
+AI:","[{'action': 'move', 'params': {'distance': 6.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ ប្រាំបី ក្បៀសប្រាំ ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'ត្រលប់មកកន្លែងដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance': 8.5, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.5, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.0, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ ប្រាំ ក្បៀសប្រាំមួយ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                       
+AI:","[{'action': 'move', 'params': {'distance': 5.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយបន្តទៀត បី ក្បៀសប្រាំបួន ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'មកវិញ']                                            
+AI:","[{'action': 'move', 'params': {'distance': 3.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត ប្រាំមួយ ក្បៀសប្រាំមួយ ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                   
+AI:","[{'action': 'move', 'params': {'distance': 6.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយ ប្រាំបួន ក្បៀសប្រាំមួយ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                       
+AI:","[{'action': 'move', 'params': {'distance': 9.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ ប្រាំ ក្បៀសមួយ ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'មកកន្លែងដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance': 5.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ ប្រាំបួន ក្បៀសប្រាំមួយ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                   
+AI:","[{'action': 'move', 'params': {'distance': 9.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.6, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយទៀត ពីរ ក្បៀសប្រាំពីរ ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយ', 'តោះទៅកន្លែងដើមវិញ']                                         
+AI:","[{'action': 'move', 'params': {'distance': 2.7, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.7, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត ពីរ ក្បៀសមួយ ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance': 2.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.1, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.2, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយបន្តទៀត ប្រាំមួយ ក្បៀសបួន ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                    
+AI:","[{'action': 'move', 'params': {'distance': 6.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.4, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយ ប្រាំបួន ក្បៀសសូន្យ ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'តោះទៅកន្លែងដើមវិញ']                                            
+AI:","[{'action': 'move', 'params': {'distance': 9.0, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.0, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 18.0, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយបន្តទៀត ប្រាំ ក្បៀសពីរ ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'តោះទៅកន្លែងដើមវិញ']                                  
+AI:","[{'action': 'move', 'params': {'distance': 5.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['ទៅមុខ៩.៨៦ម៉ែត្រ', 'ទៅទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                                     
+AI:","[{'action': 'move', 'params': {'distance': 9.86, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.86, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.72, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១៦.២៩ម៉ែត្រ', 'តោះទៅមុខទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                            
+AI:","[{'action': 'move', 'params': {'distance': 16.29, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 16.29, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 32.58, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១៤.៧២ម៉ែត្រ', 'តោះទៅមុខទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                            
+AI:","[{'action': 'move', 'params': {'distance': 14.72, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 14.72, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 29.44, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១៤.៨៤ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                                           
+AI:","[{'action': 'move', 'params': {'distance': 14.84, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 14.84, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 29.68, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតទៅមុខ៩.៥៩ម៉ែត្រ', 'ទៅបន្តទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                            
+AI:","[{'action': 'move', 'params': {'distance': 9.59, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.59, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.18, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតទៅមុខ១៥.០៧ម៉ែត្រ', 'ទៅទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                           
+AI:","[{'action': 'move', 'params': {'distance': 15.07, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 15.07, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 30.14, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះយើងបើកទៅមុខ៣.៦៨ម៉ែត្រ', 'ដើរទៅទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                         
+AI:","[{'action': 'move', 'params': {'distance': 3.68, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.68, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.36, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១.៣៥ម៉ែត្រ', 'បន្តទៅមុខ', 'មកកន្លែងដើមវិញ']                                                                   
+AI:","[{'action': 'move', 'params': {'distance': 1.35, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.35, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.7, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១២.០ម៉ែត្រ', 'ទៅទៀត', 'មកកន្លែងដើមវិញ']                                                                     
+AI:","[{'action': 'move', 'params': {'distance': 12.0, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.0, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 24.0, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះយើងបើកទៅមុខ៦.៧៩ម៉ែត្រ', 'បន្តទៅមុខ', 'ត្រលប់មកកន្លែងដើមវិញ']                                                         
+AI:","[{'action': 'move', 'params': {'distance': 6.79, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.79, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.58, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ចេញដំណើរទៅមុខ១៧.៦៨ម៉ែត្រ', 'បន្តទៅមុខ', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                        
+AI:","[{'action': 'move', 'params': {'distance': 17.68, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.68, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 35.36, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១៣.១៧ម៉ែត្រ', 'ដើរទៅទៀត', 'មកកន្លែងដើមវិញ']                                                                 
+AI:","[{'action': 'move', 'params': {'distance': 13.17, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.17, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 26.34, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ចេញដំណើរទៅមុខ១៧.៧ម៉ែត្រ', 'ដើរទៅទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                        
+AI:","[{'action': 'move', 'params': {'distance': 17.7, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.7, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 35.4, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ចេញដំណើរទៅមុខ១៦.២៦ម៉ែត្រ', 'តោះទៅមុខទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                        
+AI:","[{'action': 'move', 'params': {'distance': 16.26, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 16.26, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 32.52, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះទៅ១៤.៩២ម៉ែត្រ', 'បន្តទៅមុខ', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance': 14.92, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 14.92, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 29.84, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ដើរទៅមុខ១០.៥៥ម៉ែត្រ', 'ទៅទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                                 
+AI:","[{'action': 'move', 'params': {'distance': 10.55, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.55, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 21.1, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១.២៩ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                          
+AI:","[{'action': 'move', 'params': {'distance': 1.29, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.29, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.58, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតទៅមុខ៤.៣៣ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                       
+AI:","[{'action': 'move', 'params': {'distance': 4.33, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.33, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.66, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខ១១.៧ម៉ែត្រ', 'ទៅទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                                  
+AI:","[{'action': 'move', 'params': {'distance': 11.7, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.7, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 23.4, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខ១២.២៧ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance': 12.27, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.27, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 24.54, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ១៣.៤៩ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'មកវិញ']                                                                       
+AI:","[{'action': 'move', 'params': {'distance': 13.49, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.49, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 26.98, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះទៅ១២.៦៩ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance': 12.69, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.69, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 25.38, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះយើងបើកទៅមុខ១១.៦៤ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'មកកន្លែងដើមវិញ']                                                         
+AI:","[{'action': 'move', 'params': {'distance': 11.64, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.64, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 23.28, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ដើរទៅមុខ១៨.៥២ម៉ែត្រ', 'ដើរទៅទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance': 18.52, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 18.52, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 37.04, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ទៅមុខ៨.១៩ម៉ែត្រ', 'ដើរទៅទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                                  
+AI:","[{'action': 'move', 'params': {'distance': 8.19, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.19, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 16.38, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតទៅមុខ៨.៩៤ម៉ែត្រ', 'បន្តទៅមុខ', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                          
+AI:","[{'action': 'move', 'params': {'distance': 8.94, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.94, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.88, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ចេញដំណើរទៅមុខ១៧.៩២ម៉ែត្រ', 'ទៅបន្តទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                          
+AI:","[{'action': 'move', 'params': {'distance': 17.92, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.92, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 35.84, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ចេញដំណើរទៅមុខ៧.១៦ម៉ែត្រ', 'ទៅបន្តទៀត', 'មកវិញ']                                                                      
+AI:","[{'action': 'move', 'params': {'distance': 7.16, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.16, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 14.32, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['ចេញដំណើរទៅមុខ៧.៧៨ម៉ែត្រ', 'ដើរទៅទៀត', 'មកកន្លែងដើមវិញ']                                                              
+AI:","[{'action': 'move', 'params': {'distance': 7.78, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.78, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 15.56, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតទៅមុខ៧.៤៤ម៉ែត្រ', 'រ៉ូបូតទៅមុខទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                          
+AI:","[{'action': 'move', 'params': {'distance': 7.44, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.44, 'is_forward': true, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 14.88, 'is_forward': false, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត 9.76 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance': 9.76, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.76, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 19.52, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ 5.15 ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'មកវិញ']                                                             
+AI:","[{'action': 'move', 'params': {'distance': 5.15, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.15, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.3, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ 5.2 ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                  
+AI:","[{'action': 'move', 'params': {'distance': 5.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត 1.2 ម៉ែត្រ', 'មកយើងទៅក្រោយ', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                                
+AI:","[{'action': 'move', 'params': {'distance': 1.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.2, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត 5.63 ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'តោះទៅកន្លែងដើមវិញ']                                                 
+AI:","[{'action': 'move', 'params': {'distance': 5.63, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.63, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.26, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត 6.91 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'មកវិញ']                                                      
+AI:","[{'action': 'move', 'params': {'distance': 6.91, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.91, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.82, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយបន្តទៀត 8.77 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                       
+AI:","[{'action': 'move', 'params': {'distance': 8.77, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.77, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 17.54, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត 3.9 ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                            
+AI:","[{'action': 'move', 'params': {'distance': 3.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 1.68 ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance': 1.68, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.68, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.36, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត 5.61 ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance': 5.61, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.61, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.22, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['មកយើងថយទៅក្រោយ 4.47 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'មកវិញ']                                                        
+AI:","[{'action': 'move', 'params': {'distance': 4.47, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.47, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.94, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ 6.9 ម៉ែត្រ', 'មកយើងទៅក្រោយបន្តទៀត', 'មកវិញ']                                                           
+AI:","[{'action': 'move', 'params': {'distance': 6.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.9, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 13.8, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 7.65 ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'ត្រលប់មកកន្លែងដើមវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance': 7.65, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.65, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 15.3, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយបន្តទៀត 5.18 ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'ត្រលប់មកកន្លែងដើមវិញ']                                             
+AI:","[{'action': 'move', 'params': {'distance': 5.18, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.18, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.36, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 7.72 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'តោះទៅកន្លែងដើមវិញ']                                         
+AI:","[{'action': 'move', 'params': {'distance': 7.72, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.72, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 15.44, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយ 2.09 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance': 2.09, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.09, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.18, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត 5.17 ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                             
+AI:","[{'action': 'move', 'params': {'distance': 5.17, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.17, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.34, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត 5.7 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'មកកន្លែងដើមវិញ']                                                   
+AI:","[{'action': 'move', 'params': {'distance': 5.7, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.7, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 11.4, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['ថយមកក្រោយ 1.45 ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយទៀត', 'តោះទៅកន្លែងដើមវិញ']                                                      
+AI:","[{'action': 'move', 'params': {'distance': 1.45, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 1.45, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.9, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះយើងទៅក្រោយទៀត 9.0 ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'មកកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance': 9.0, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 9.0, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 18.0, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 2.93 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយ', 'មកវិញ']                                                          
+AI:","[{'action': 'move', 'params': {'distance': 2.93, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.93, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.86, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយទៀត 6.35 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយបន្តទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                          
+AI:","[{'action': 'move', 'params': {'distance': 6.35, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 6.35, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 12.7, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត 2.97 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance': 2.97, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.97, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.94, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 8.48 ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'តោះទៅកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance': 8.48, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.48, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 16.96, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ 3.86 ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយ', 'ត្រលប់មកកន្លែងដើមវិញ']                                                    
+AI:","[{'action': 'move', 'params': {'distance': 3.86, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.86, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.72, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយទៀត 4.12 ម៉ែត្រ', 'តោះរ៉ូបូតថយក្រោយទៀត', 'ត្រលប់មកកន្លែងដើមវិញ']                                              
+AI:","[{'action': 'move', 'params': {'distance': 4.12, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.12, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.24, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 5.38 ម៉ែត្រ', 'រ៉ូបូតថយទៅក្រោយ', 'ត្រលប់មកកន្លែងដើមវិញ']                                               
+AI:","[{'action': 'move', 'params': {'distance': 5.38, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 5.38, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 10.76, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយ 2.16 ម៉ែត្រ', 'តោះយើងទៅក្រោយបន្តទៀត', 'ថយមកកន្លែងចាប់ផ្ដើមវិញ']                                           
+AI:","[{'action': 'move', 'params': {'distance': 2.16, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 2.16, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.32, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['តោះរ៉ូបូតថយក្រោយទៀត 3.66 ម៉ែត្រ', 'តោះយើងទៅក្រោយ', 'ត្រលប់មកកន្លែងដើមវិញ']                                                
+AI:","[{'action': 'move', 'params': {'distance': 3.66, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 3.66, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 7.32, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ['រ៉ូបូតថយទៅក្រោយបន្តទៀត 4.36 ម៉ែត្រ', 'តោះយើងទៅក្រោយទៀត', 'មកវិញ']                                                       
+AI:","[{'action': 'move', 'params': {'distance': 4.36, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 4.36, 'is_forward': false, 'unit': 'meter'}},{'action': 'move', 'params': {'distance': 8.72, 'is_forward': true, 'unit': 'meter'}}]"
+"User: ថយក្រោយចំងាយ១.២៩ ម៉ែត្រ​ ដោយចំណាយពេល១នាទី.                                                                                
+AI:","{'action': 'move', 'params': {'distance': 1.29, 'is_forward': false, 'unit': 'meter', 'duration': 1}}"
+"User: តោះទៅមុខ១៩.៩២ម៉ែត្រ​ក្នុងរយៈពេល៥នាទី.                                                                                     
+AI:","{'action': 'move', 'params': {'distance': 19.92, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: ហេរ៉ូបូតបើកទៅមុខចំងាយ១៨.៩៤ ម៉ែត្រ​ ក្នុងរយៈពេល ៥នាទី.                                                                         
+AI:","{'action': 'move', 'params': {'distance': 18.94, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: ទៅក្រោយ១.៧៩ ម៉ែត្រ​ ដោយចំណាយពេល១នាទី.                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 1.79, 'is_forward': false, 'unit': 'meter', 'duration': 1}}"
+"User: តោះបើកទៅក្រោយចំងាយ១៥.២៨ ម៉ែត្រ​ ដោយចំណាយពេល៥នាទី.                                                                         
+AI:","{'action': 'move', 'params': {'distance': 15.28, 'is_forward': false, 'unit': 'meter', 'duration': 5}}"
+"User: តោះទៅមុខ១៨.០៥ម៉ែត្រ​ក្នុងរយៈពេល៥នាទី.                                                                                     
+AI:","{'action': 'move', 'params': {'distance': 18.05, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: ហេរ៉ូបូតទៅមុខ១២.៣៤ ម៉ែត​ ក្នុងរយៈពេល ៥នាទី.                                                                                 
+AI:","{'action': 'move', 'params': {'distance': 12.34, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: ទៅមុខ១៦.៣៦ ម៉ែត្រ​ ដោយចំណាយពេល៣នាទី.                                                                                     
+AI:","{'action': 'move', 'params': {'distance': 16.36, 'is_forward': true, 'unit': 'meter', 'duration': 3}}"
+"User: ទៅក្រោយ១៣.៣៦ ម៉ែត្រ​ ក្នុងរយៈពេល ៣នាទី.                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 13.36, 'is_forward': false, 'unit': 'meter', 'duration': 3}}"
+"User: ទៅមុខ៧.០៨ម៉ែត្រ​ក្នុងរយៈពេល៥នាទី.                                                                                         
+AI:","{'action': 'move', 'params': {'distance': 7.08, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: តោះបើកទៅក្រោយចំងាយ៥.៤៥ ម​  ម៉ែត​ ក្នុងរយៈពេល  ២នាទី.                                                                       
+AI:","{'action': 'move', 'params': {'distance': 5.45, 'is_forward': false, 'unit': 'meter', 'duration': 2}}"
+"User: ទៅមុខ១៧.២ ម៉ែត្រ​ ដោយចំណាយពេល១នាទី.                                                                                      
+AI:","{'action': 'move', 'params': {'distance': 17.2, 'is_forward': true, 'unit': 'meter', 'duration': 1}}"
+"User: រ៉ូបូតទៅមុខ១២.៩៩ ម៉ែត្រ​ ដោយចំណាយពេល៣នាទី.                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 12.99, 'is_forward': true, 'unit': 'meter', 'duration': 3}}"
+"User: តោះបើកទៅក្រោយចំងាយ២.៧៩ម៉ែត្រធ្វើដំណើរ​ក្នុងរយៈពេល២នាទី.                                                                      
+AI:","{'action': 'move', 'params': {'distance': 2.79, 'is_forward': false, 'unit': 'meter', 'duration': 4}}"
+"User: តោះបើកទៅក្រោយចំងាយ៤.៦១ ម៉ែត្រ​ ដោយចំណាយពេល៥នាទី.                                                                          
+AI:","{'action': 'move', 'params': {'distance': 4.61, 'is_forward': false, 'unit': 'meter', 'duration': 5}}"
+"User: ហេរ៉ូបូតទៅមុខចំងាយ៨.៥ ម៉ែត្រ​ ដោយចំណាយពេល៤នាទី.                                                                              
+AI:","{'action': 'move', 'params': {'distance': 8.5, 'is_forward': true, 'unit': 'meter', 'duration': 4}}"
+"User: រ៉ូបូតទៅមុខ១០.០៨ម៉ែត្រ​ក្នុងរយៈពេល៥នាទី.                                                                                     
+AI:","{'action': 'move', 'params': {'distance': 10.08, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: តោះបើកទៅក្រោយចំងាយ១៩.៦២ ម​  ម៉ែត​ ក្នុងរយៈពេល  ៥នាទី.                                                                      
+AI:","{'action': 'move', 'params': {'distance': 19.62, 'is_forward': false, 'unit': 'meter', 'duration': 5}}"
+"User: ហេរ៉ូបូតទៅមុខចំងាយ១១.០ ម៉ែត្រ​ ដោយចំណាយពេល២នាទី.                                                                             
+AI:","{'action': 'move', 'params': {'distance': 11.0, 'is_forward': true, 'unit': 'meter', 'duration': 2}}"
+"User: តោះដើរទៅក្រោយចំងាយ៧.០២ ម៉ែត្រ​ ដោយចំណាយពេល៥នាទី.                                                                          
+AI:","{'action': 'move', 'params': {'distance': 7.02, 'is_forward': false, 'unit': 'meter', 'duration': 5}}"
+"User: ទៅមុខ៧.៨៩ ម៉ែត្រ​ ដោយចំណាយពេល៥នាទី.                                                                                      
+AI:","{'action': 'move', 'params': {'distance': 7.89, 'is_forward': true, 'unit': 'meter', 'duration': 5}}"
+"User: ទៅក្រោយ១៤.៨៦ ម​  ម៉ែត​ ក្នុងរយៈពេល  ៥នាទី.                                                                                
+AI:","{'action': 'move', 'params': {'distance': 14.86, 'is_forward': false, 'unit': 'meter', 'duration': 5}}"
+"User: រ៉ូបូតទៅមុខ១៩.២៥ ម៉ែត្រ​ ដោយចំណាយពេល៣នាទី.                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 19.25, 'is_forward': true, 'unit': 'meter', 'duration': 3}}"
+"User: ទៅក្រោយ៥.៩២ម​ ក្នុងរយៈពេល៣នាទី.                                                                                         
+AI:","{'action': 'move', 'params': {'distance': 5.92, 'is_forward': false, 'unit': 'meter', 'duration': 3}}"
+"User: ទៅក្រោយ១៨.៧៣ម៉ែត្រធ្វើដំណើរ​ក្នុងរយៈពេល២នាទី.                                                                               
+AI:","{'action': 'move', 'params': {'distance': 18.73, 'is_forward': false, 'unit': 'meter', 'duration': 4}}"
+"User: ហេរ៉ូបូតទៅមុខ៩.៥១ ម៉ែត្រ​ ដោយចំណាយពេល១នាទី.                                                                                 
+AI:","{'action': 'move', 'params': {'distance': 9.51, 'is_forward': true, 'unit': 'meter', 'duration': 1}}"
+"User: ហេរ៉ូបូតដើរទៅមុខចំងាយ១១.៥៥ម៉ែត្រផ្លាស់ទី​ក្នុងរយៈពេល២នាទី.                                                                       
+AI:","{'action': 'move', 'params': {'distance': 11.55, 'is_forward': true, 'unit': 'meter', 'duration': 2}}"
+"User: តោះថយក្រោយចំងាយ៦.៩៨ម៉ែត្រ​ក្នុងរយៈពេល៥នាទី.                                                                                
+AI:","{'action': 'move', 'params': {'distance': 6.98, 'is_forward': false, 'unit': 'meter', 'duration': 5}}"
+"User: ទៅក្រោយ១២.៩៣ម៉ែត​​ដោយប្រើរយៈពេល១នាទី.                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 12.93, 'is_forward': false, 'unit': 'meter', 'duration': 1}}"
+"User: ទៅក្រោយ១.៦៥ម៉ែត្រធ្វើដំណើរ​ក្នុងរយៈពេល២នាទី.                                                                                
+AI:","{'action': 'move', 'params': {'distance': 1.65, 'is_forward': false, 'unit': 'meter', 'duration': 4}}"
+"User: រ៉ូបូតទៅមុខ ១៣.០៥ ម                                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 13.05, 'is_forward': true, 'unit': 'meter'}}"
+"User: ត្រឡប់ក្រោយ ១៦.៣២ ម៉                                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 16.32, 'is_forward': false, 'unit': 'meter'}}"
+"User: ត្រឡប់ក្រោយ ៨.៧២ ម៉ែត្រ                                                                                                 
+AI:","{'action': 'move', 'params': {'distance': 8.72, 'is_forward': false, 'unit': 'meter'}}"
+"User: ទៅក្រោយ ១០.៨៦ ម                                                                                                     
+AI:","{'action': 'move', 'params': {'distance': 10.86, 'is_forward': false, 'unit': 'meter'}}"
+"User: បកក្រោយ ១៣.៦៨ ម៉ែត្រ                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 13.68, 'is_forward': false, 'unit': 'meter'}}"
+"User: ទៅមុខ ៨.៧២ ម៉ែត                                                                                                      
+AI:","{'action': 'move', 'params': {'distance': 8.72, 'is_forward': true, 'unit': 'meter'}}"
+"User: ត្រឡប់ក្រោយ ៩.០ ម៉ែត្រ                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 9.0, 'is_forward': false, 'unit': 'meter'}}"
+"User: បន្តទៅមុខ ១០.៩៩ ម៉ែត្រ                                                                                                 
+AI:","{'action': 'move', 'params': {'distance': 10.99, 'is_forward': true, 'unit': 'meter'}}"
+"User: ទៅមុខ ១៤.២៣ ម៉                                                                                                       
+AI:","{'action': 'move', 'params': {'distance': 14.23, 'is_forward': true, 'unit': 'meter'}}"
+"User: ទៅក្រោយ ១៨.១៥ ម៉ែត្រ                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 18.15, 'is_forward': false, 'unit': 'meter'}}"
+"User: បន្តទៅមុខ ៨.៧៥ ម៉ែត្រ                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 8.75, 'is_forward': true, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ៨.៣ ម៉ែត្រ                                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 8.3, 'is_forward': true, 'unit': 'meter'}}"
+"User: ត្រឡប់ក្រោយ ១១.៨ ម៉ែត                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 11.8, 'is_forward': false, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ៦.៩៥ ម៉ែត្រ                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 6.95, 'is_forward': true, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ១៨.៤៦ ម៉ែត្រ                                                                                                 
+AI:","{'action': 'move', 'params': {'distance': 18.46, 'is_forward': true, 'unit': 'meter'}}"
+"User: បកក្រោយ ៩.៨៦ ម                                                                                                      
+AI:","{'action': 'move', 'params': {'distance': 9.86, 'is_forward': false, 'unit': 'meter'}}"
+"User: ទៅក្រោយ ១០.៦ ម៉ែត                                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 10.6, 'is_forward': false, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ១៧.៧៣ ម៉ែត                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 17.73, 'is_forward': true, 'unit': 'meter'}}"
+"User: ត្រឡប់ក្រោយ ១២.២៩ ម៉ែត្រ                                                                                                
+AI:","{'action': 'move', 'params': {'distance': 12.29, 'is_forward': false, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ៥.៤៨ ម៉ែត្រ                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 5.48, 'is_forward': true, 'unit': 'meter'}}"
+"User: បន្តទៅមុខ ២.០៩ ម៉ែត                                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 2.09, 'is_forward': true, 'unit': 'meter'}}"
+"User: ទៅមុខ ១៥.៥៦ ម៉                                                                                                       
+AI:","{'action': 'move', 'params': {'distance': 15.56, 'is_forward': true, 'unit': 'meter'}}"
+"User: បន្តទៅមុខ ៨.២ ម                                                                                                      
+AI:","{'action': 'move', 'params': {'distance': 8.2, 'is_forward': true, 'unit': 'meter'}}"
+"User: ទៅក្រោយ ១៦.៧៦ ម៉ែត                                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 16.76, 'is_forward': false, 'unit': 'meter'}}"
+"User: បន្តទៅមុខ ១៤.១៥ ម៉ែត                                                                                                  
+AI:","{'action': 'move', 'params': {'distance': 14.15, 'is_forward': true, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ១៥.១៣ ម៉                                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 15.13, 'is_forward': true, 'unit': 'meter'}}"
+"User: បកក្រោយ ៨.៩៩ ម៉ែត                                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 8.99, 'is_forward': false, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ២.៨៤ ម៉ែត                                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 2.84, 'is_forward': true, 'unit': 'meter'}}"
+"User: ទៅក្រោយ ៧.៥៤ ម៉ែត្រ                                                                                                   
+AI:","{'action': 'move', 'params': {'distance': 7.54, 'is_forward': false, 'unit': 'meter'}}"
+"User: បកក្រោយ ៤.៣៣ ម៉ែត                                                                                                    
+AI:","{'action': 'move', 'params': {'distance': 4.33, 'is_forward': false, 'unit': 'meter'}}"
+"User: បកក្រោយ ១១.២៣ ម៉ែត្រ ក្នុងល្បឿន ៣.៧៥ ម៉ែត/វិនាទី បន្ត ងាកទៅឆ្វេង ៣៣៩ ដឺក្រេ។                                                    
+AI:","{'action': 'move', 'params': {'linear_speed': 3.75, 'distance': 11.23, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 339, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៣.០១ ម៉ែត្រ ក្នុងល្បឿន ៧.៣១ ម៉ែត/វិនាទី រួចហើយ បង្វែស្ដាំ ១៥២ ដឺក្រេ។                                                    
+AI:","{'action': 'move', 'params': {'linear_speed': 7.31, 'distance': 13.01, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ៣.២៤ ម៉ែត្រ នៅល្បឿន ៦.៨៥ ម៉ែត/វិនាទី រួចរាល់ហើយ បង្វែស្ដាំ ៣៤៨ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 6.85, 'distance': 3.24, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 348, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងត្រឡប់ក្រោយ ៤.១៧ ម៉ែត្រ នៅល្បឿន ១.០ ម៉ែត/វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ២៩១ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 1.0, 'distance': 4.17, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 291, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ២.២២ ម៉ែត្រ ក្នុងល្បឿន ១.៨៧ ម៉ែត/វិនាទី រួចហើយ ងាកទៅឆ្វេង ១៥៣ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 1.87, 'distance': 2.22, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 153, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ៧.១៩ ម៉ែត ក្នុងល្បឿន ៣.៥៦ ម៉ែត្រក្នុង១វិនាទី រួចហើយ ងាកទៅឆ្វេង ៨២ ដឺក្រេ។                                                
+AI:","{'action': 'move', 'params': {'linear_speed': 3.56, 'distance': 7.19, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 82, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៦.៦៦ ម៉ែត្រ នៅល្បឿន ៤.៧ ម/វិ រួចរាល់ហើយ បត់ស្ដាំ ២៤៣ ដឺក្រេ។                                                          
+AI:","{'action': 'move', 'params': {'linear_speed': 4.7, 'distance': 16.66, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 243, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ១០.៦៩ ម៉ែត្រ នៅល្បឿន ៧.២ ម៉ែត/វិនាទី រួចរាល់ហើយ បង្វែឆ្វេង ១៥៣ ដឺក្រេ។                                                 
+AI:","{'action': 'move', 'params': {'linear_speed': 7.2, 'distance': 10.69, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 153, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ទៅមុខ ៦.៦៤ ម៉ែត្រ នៅល្បឿន ២.៩២ ម/វិ បន្ទាប់មក បត់ស្ដាំ ២៧៦ ដឺក្រេ។                                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 2.92, 'distance': 6.64, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅក្រោយ ១៩.០៦ ម៉ែត្រ ក្នុងល្បឿន ៤.០ ម/វិ បន្ទាប់មក បង្វែស្ដាំ ២៣៩ ដឺក្រេ។                                                        
+AI:","{'action': 'move', 'params': {'linear_speed': 4.0, 'distance': 19.06, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 239, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងត្រឡប់ក្រោយ ១២.២២ ម៉ែត្រ នៅល្បឿន ៣.៧៥ ម/វិ បន្ត បង្វែឆ្វេង ២៧១ ដឺក្រេ។                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 3.75, 'distance': 12.22, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 271, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១១.២៣ ម៉ែត នៅល្បឿន ៨.៣៨ ម៉ែត/វិនាទី បន្ទាប់មក ងាកទៅស្ដាំ ៨៤ ដឺក្រេ។                                                    
+AI:","{'action': 'move', 'params': {'linear_speed': 8.38, 'distance': 11.23, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 84, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅក្រោយ ៧.១៩ ម ក្នុងល្បឿន ៣.៩៤ ម៉ែត/វិនាទី បន្ទាប់មក បង្វែស្ដាំ ២៩១ ដឺក្រេ។                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 3.94, 'distance': 7.19, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 291, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅក្រោយ ២.៣៤ ម៉ែត្រ ក្នុងល្បឿន ៦.៦៥ ម៉ែត/វិនាទី រួចរាល់ហើយ បត់ស្ដាំ ១២៧ ដឺក្រេ។                                                    
+AI:","{'action': 'move', 'params': {'linear_speed': 6.65, 'distance': 2.34, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 127, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៤.៤៨ ម៉ែត នៅល្បឿន ១.៧៨ ម៉ែត្រក្នុង១វិនាទី បន្ទាប់មក បត់ឆ្វេង ៣៦ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 1.78, 'distance': 14.48, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 36, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះទៅមុខ ១.០៤ ម៉ែត្រ នៅល្បឿន ២.៨៥ ម៉ែត/វិនាទី បន្ត បង្វែឆ្វេង ៨១ ដឺក្រេ។                                                     
+AI:","{'action': 'move', 'params': {'linear_speed': 2.85, 'distance': 1.04, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 81, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១២.២២ ម៉ែត្រ ក្នុងល្បឿន ២.៩២ ម៉ែត/វិនាទី រួចហើយ បត់ឆ្វេង ៣០៥ ដឺក្រេ។                                                     
+AI:","{'action': 'move', 'params': {'linear_speed': 2.92, 'distance': 12.22, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 305, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៥.១៤ ម៉ែត នៅល្បឿន ៦.៩៨ ម៉ែត្រក្នុង១វិនាទី រួចហើយ បង្វែស្ដាំ ៨៤ ដឺក្រេ។                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 6.98, 'distance': 15.14, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 84, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ១២.២២ ម ដោយល្បឿន ៧.៣១ ម៉ែត/វិនាទី រួចហើយ ងាកទៅឆ្វេង ២៧៦ ដឺក្រេ។                                                    
+AI:","{'action': 'move', 'params': {'linear_speed': 7.31, 'distance': 12.22, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ត្រឡប់ក្រោយ ៨.៣៤ ម៉ែត្រ នៅល្បឿន ៥.៩៤ ម៉ែត/វិនាទី រួចហើយ បត់ស្ដាំ ២៧៦ ដឺក្រេ។                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 5.94, 'distance': 8.34, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ត្រឡប់ក្រោយ ៣.៣៨ ម៉ែត្រ ក្នុងល្បឿន ៥.៥២ ម/វិ រួចហើយ បង្វែស្ដាំ ៥៥ ដឺក្រេ។                                                         
+AI:","{'action': 'move', 'params': {'linear_speed': 5.52, 'distance': 3.38, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 55, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ២.២១ ម៉ែត្រ ក្នុងល្បឿន ១.០ ម៉ែត/វិនាទី រួចហើយ បត់ស្ដាំ ៣៦ ដឺក្រេ។                                                        
+AI:","{'action': 'move', 'params': {'linear_speed': 1.0, 'distance': 2.21, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 36, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងត្រឡប់ក្រោយ ១៦.៤៥ ម៉ែត្រ ដោយល្បឿន ៦.០៣ ម៉ែត្រក្នុង១វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ២៦០ ដឺក្រេ។                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 6.03, 'distance': 16.45, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 260, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ៧.១៩ ម៉ែត្រ នៅល្បឿន ៤.៩៦ ម/វិ បន្ទាប់មក ងាកទៅឆ្វេង ៨១ ដឺក្រេ។                                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 4.96, 'distance': 7.19, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 81, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ៣.៧៥ ម៉ែត្រ ក្នុងល្បឿន ៤.៧៧ ម៉ែត្រក្នុង១វិនាទី រួចហើយ បត់ស្ដាំ ១៦៣ ដឺក្រេ។                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 4.77, 'distance': 3.75, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 163, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ៣.២៤ ម៉ែត ដោយល្បឿន ៣.៧៥ ម៉ែត្រក្នុង១វិនាទី បន្ត ងាកទៅស្ដាំ ២៣ ដឺក្រេ។                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 3.75, 'distance': 3.24, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 23, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ហេតោះទៅមុខ ១៣.០១ ម ក្នុងល្បឿន ៣.៩៤ ម៉ែត្រក្នុង១វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ២៨១ ដឺក្រេ។                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 3.94, 'distance': 13.01, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 281, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បត់ស្ដាំ ២០៨ ដឺក្រេ បន្តបកក្រោយ ១០.៨៤ ម៉ែត្រ ក្នុងល្បឿន ៨.៣៩ ម៉ែតក្នុង១វិ                                                          
+AI:","{'action': 'rotate', 'params': {'angle': 208, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.39, 'distance': 10.84, 'is_forward': False, 'unit': 'meter'}}"
+"User: តោះរ៉ូបូតងាកទៅឆ្វេង ២៩៣ ដឺក្រេ បន្តទៅមុខ ១៩.៨៩ ម៉ែត្រ ក្នុងល្បឿន ៧.២៣ ម៉/វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 293, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 7.23, 'distance': 19.89, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ២៤៥ ដឺក្រេ រួចបន្តយើងទៅមុខ ៥.៨៧ ម៉ែត្រ រហូតដល់ល្បឿន ២.៦៦ ម៉ែត្រ/វិនាទី                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 245, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.66, 'distance': 5.87, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២៧៣ ដឺក្រេ រួចបន្តត្រឡប់ក្រោយ ៩.៤១ ម៉ែត្រ រហូតដល់ល្បឿន ២.០៩ ម៉/វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 273, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.09, 'distance': 9.41, 'is_forward': False, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២៤១ ដឺក្រេ រួចបន្តយើងទៅមុខ ៩.៣២ ម៉ែត្រ រហូតដល់ល្បឿន ៩.៣ ម៉ែត្រ/វិនាទី                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 241, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.3, 'distance': 9.32, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ៣៥៣ ដឺក្រេ បន្ទាប់មកត្រឡប់ក្រោយ ១៨.១២ ម៉ែត្រ ក្នុងល្បឿន ៩.៦៧ ម៉ែត្រ/វិនាទី                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 353, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.67, 'distance': 18.12, 'is_forward': False, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២២៧ ដឺក្រេ រួចបន្តទៅមុខ ១៩.៣២ ម៉ែត្រ រហូតដល់ល្បឿន ៥.០៣ ម៉ែត្រក្នុង១វិនាទី                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 227, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.03, 'distance': 19.32, 'is_forward': True, 'unit': 'meter'}}"
+"User: តោះរ៉ូបូតយើងងាកខ្លួនទៅឆ្វេង ២៧២ ដឺក្រេ បន្ទាប់មកទៅមុខ ២.៧៤ ម៉ែត្រ ដោយល្បឿន ៩.០២ ម៉ែត្រ/វិនាទី                                        
+AI:","{'action': 'rotate', 'params': {'angle': 272, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.02, 'distance': 2.74, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ១២៦ ដឺក្រេ ហើយបន្តទៅមុខ ១២.៥២ ម៉ែត្រ រហូតដល់ល្បឿន ២.៦៩ ម៉ែត្រក្នុង១វិនាទី                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 126, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.69, 'distance': 12.52, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតងាកខ្លួនទៅស្ដាំ ២៧៦ ដឺក្រេ ហើយបន្តត្រឡប់ក្រោយ ២.៦៥ ម៉ែត្រ ក្នុងល្បឿន ១.៩១ ម៉ែត្រក្នុង១វិនាទី                                         
+AI:","{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 1.91, 'distance': 2.65, 'is_forward': False, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២៨៧ ដឺក្រេ បន្តទៅមុខ ៣.៨២ ម៉ែត្រ ដោយល្បឿន ៨.២ ម/វិ                                                                
+AI:","{'action': 'rotate', 'params': {'angle': 287, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.2, 'distance': 3.82, 'is_forward': True, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ៣៤០ ដឺក្រេ បន្ទាប់មកទៅក្រោយ ២.៥៩ ម៉ែត្រ ក្នុងល្បឿន ៦.៧១ ម៉ក្នុង១វិ                                                         
+AI:","{'action': 'rotate', 'params': {'angle': 340, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 6.71, 'distance': 2.59, 'is_forward': False, 'unit': 'meter'}}"
+"User: រ៉ូបូតងាកខ្លួនទៅឆ្វេង ១៩៥ ដឺក្រេ បន្តយើងទៅមុខ ១៣.៣៨ ម៉ែត្រ ដោយល្បឿន ៤.០១ ម៉ែត/វិនាទី                                               
+AI:","{'action': 'rotate', 'params': {'angle': 195, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 4.01, 'distance': 13.38, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតងាកខ្លួនទៅស្ដាំ ១១៩ ដឺក្រេ រួចបន្តបកក្រោយ ១៣.៧៨ ម៉ែត្រ ក្នុងល្បឿន ៩.៦៥ ម៉ែត/វិនាទី                                               
+AI:","{'action': 'rotate', 'params': {'angle': 119, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.65, 'distance': 13.78, 'is_forward': False, 'unit': 'meter'}}"
+"User: តោះរ៉ូបូតងាកទៅស្ដាំ ២៦៥ ដឺក្រេ រួចបន្តបកក្រោយ ១២.៨៥ ម៉ែត្រ ដោយល្បឿន ៨.៦ ម/វិ                                                     
+AI:","{'action': 'rotate', 'params': {'angle': 265, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.6, 'distance': 12.85, 'is_forward': False, 'unit': 'meter'}}"
+"User: តោះរ៉ូបូតងាកទៅស្ដាំ ១៤៤ ដឺក្រេ ហើយបន្តទៅមុខ ៧.៣៤ ម៉ែត្រ ក្នុងល្បឿន ៩.៥៤ ម៉ែតក្នុង១វិ                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 144, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.54, 'distance': 7.34, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតងាកខ្លួនទៅឆ្វេង ៣១៨ ដឺក្រេ ហើយបន្តទៅមុខ ៩.៧៨ ម៉ែត្រ ដោយល្បឿន ៣.៣៣ ម៉ែត/វិនាទី                                                
+AI:","{'action': 'rotate', 'params': {'angle': 318, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 3.33, 'distance': 9.78, 'is_forward': True, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ២៩២ ដឺក្រេ រួចបន្តទៅក្រោយ ៦.៧៥ ម៉ែត្រ រហូតដល់ល្បឿន ៨.៨៦ ម៉ែត្រក្នុង១វិនាទី                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 292, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.86, 'distance': 6.75, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ២៧៨ ដឺក្រេ បន្ទាប់មករ៉ូបូតទៅមុខ ១២.៣៦ ម៉ែត្រ ក្នុងល្បឿន ២.៥៥ ម៉ែត្រក្នុង១វិនាទី                                                
+AI:","{'action': 'rotate', 'params': {'angle': 278, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.55, 'distance': 12.36, 'is_forward': True, 'unit': 'meter'}}"
+"User: តោះរ៉ូបូតយើងងាកទៅស្ដាំ ១៨៦ ដឺក្រេ ហើយបន្តបកក្រោយ ៦.៦២ ម៉ែត្រ ដោយល្បឿន ៩.១៤ ម៉/វិនាទី                                              
+AI:","{'action': 'rotate', 'params': {'angle': 186, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.14, 'distance': 6.62, 'is_forward': False, 'unit': 'meter'}}"
+"User: រ៉ូបូតងាកទៅឆ្វេង ១២៣ ដឺក្រេ ហើយបន្តយើងទៅមុខ ១៨.២១ ម៉ែត្រ រហូតដល់ល្បឿន ៦.១ ម៉ែត/វិនាទី                                              
+AI:","{'action': 'rotate', 'params': {'angle': 123, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 6.1, 'distance': 18.21, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ២៩៦ ដឺក្រេ បន្ទាប់មកទៅក្រោយ ៥.០៥ ម៉ែត្រ ក្នុងល្បឿន ១.៧៤ ម៉ែត/វិនាទី                                                     
+AI:","{'action': 'rotate', 'params': {'angle': 296, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 1.74, 'distance': 5.05, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ៣៣៦ ដឺក្រេ ហើយបន្តទៅមុខ ៤.៦៩ ម៉ែត្រ ដោយល្បឿន ៩.៩៣ ម៉ែត/វិ                                                            
+AI:","{'action': 'rotate', 'params': {'angle': 336, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.93, 'distance': 4.69, 'is_forward': True, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ១៣៤ ដឺក្រេ ហើយបន្តបកក្រោយ ៣.១៨ ម៉ែត្រ ក្នុងល្បឿន ៩.០៨ ម៉ែតក្នុង១វិ                                                        
+AI:","{'action': 'rotate', 'params': {'angle': 134, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.08, 'distance': 3.18, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ៦៣ ដឺក្រេ រួចបន្តយើងទៅមុខ ២.០២ ម៉ែត្រ ដោយល្បឿន ៦.៤៥ ម៉/វិនាទី                                                           
+AI:","{'action': 'rotate', 'params': {'angle': 63, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 6.45, 'distance': 2.02, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ២៨៩ ដឺក្រេ បន្តទៅមុខ ៣.២៧ ម៉ែត្រ ក្នុងល្បឿន ៥.៤២ ម៉ែត្រ/វិ                                                             
+AI:","{'action': 'rotate', 'params': {'angle': 289, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.42, 'distance': 3.27, 'is_forward': True, 'unit': 'meter'}}"
+"User: តោះរ៉ូបូតយើងងាកខ្លួនទៅឆ្វេង ១០២ ដឺក្រេ ហើយបន្តទៅក្រោយ ១៤.៧ ម៉ែត្រ ដោយល្បឿន ៥.៧៦ ម៉ែត្រក្នុង១វិនាទី                                    
+AI:","{'action': 'rotate', 'params': {'angle': 102, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.76, 'distance': 14.7, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ២៨៣ ដឺក្រេ បន្តទៅក្រោយ ១២.១៦ ម៉ែត្រ ដោយល្បឿន ៧.៣៩ ម៉ែត្រ/វិនាទី                                                         
+AI:","{'action': 'rotate', 'params': {'angle': 283, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 7.39, 'distance': 12.16, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ២១៨ ដឺក្រេ រួចបន្តទៅក្រោយ ១៩.៦១ ម៉ែត្រ រហូតដល់ល្បឿន ៥.០១ ម៉ែត្រ/វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 218, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.01, 'distance': 19.61, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ៣៤ ដឺក្រេ បន្តទៅមុខ ៨.២៨ ម៉ែត្រ រហូតដល់ល្បឿន ១.២២ ម៉ែត្រ/វិនាទី                                                           
+AI:","{'action': 'rotate', 'params': {'angle': 34, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 1.22, 'distance': 8.28, 'is_forward': True, 'unit': 'meter'}}"
+"User: ទៅក្រោយ ១៦.៦៦ ម៉ែត នៅល្បឿន ១.៨៥ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក បង្វែស្ដាំ ១៥២ ដឺក្រេ។                                                 
+AI:","{'action': 'move', 'params': {'linear_speed': 1.85, 'distance': 16.66, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅមុខ ១២.៦៨ ម៉ ក្នុងល្បឿន ៦.៤២ មក្នុងវិ បន្ត ងាកទៅស្ដាំ ៣៥០ ដឺក្រេ។                                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 6.42, 'distance': 12.68, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 350, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ៥.៥៧ ម៉ែត្រ ជិះប្រើល្បឿន ៦.៤៧ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ២៨៣ ដឺក្រេ។                                           
+AI:","{'action': 'move', 'params': {'linear_speed': 6.47, 'distance': 5.57, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 283, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៦.៤៥ ម រត់ប្រើល្បឿន ៦.៤៤ ម៉ែតក្នុង១វិនាទី បន្ត បង្វែស្ដាំ ២៤៤ ដឺក្រេ។                                                    
+AI:","{'action': 'move', 'params': {'linear_speed': 6.44, 'distance': 16.45, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 244, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ១៧.៤៣ ម៉ែត បើកបរក្នុងល្បឿន ២.៩៨ ម៉ែតក្នុង១វិនាទី បន្ត ងាកទៅស្ដាំ ២២៧ ដឺក្រេ។                                        
+AI:","{'action': 'move', 'params': {'linear_speed': 2.98, 'distance': 17.43, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 227, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ហេតោះរ៉ូបូតយើងទៅមុខ ២.២២ ម៉ នៅល្បឿន ៨.០២ មក្នុងវិ បន្ទាប់មក ងាកទៅស្ដាំ ២៦០ ដឺក្រេ។                                                
+AI:","{'action': 'move', 'params': {'linear_speed': 8.02, 'distance': 2.22, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 260, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ១៧.៩១ ម៉ែត្រ ដើរដោយប្រើល្បឿនប្រាំបីក្បៀសហុខសិបប្រាំពីរម៉ែត្រក្នុង១វិនាទី បន្ទាប់មក ងាកទៅស្ដាំ ២៤៣ ដឺក្រេ។                           
+AI:","{'action': 'move', 'params': {'linear_speed': 8.67, 'distance': 17.91, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 243, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ថយក្រោយ ៥.៥៧ ម បើកជិះក្នុងល្បឿន ៤.០ មក្នុង១វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ១៥២ ដឺក្រេ។                                               
+AI:","{'action': 'move', 'params': {'linear_speed': 4.0, 'distance': 5.57, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ៤.៩១ ម៉ែត បើកបរក្នុងល្បឿន ៣.៧៥ ម៉ែតក្នុង១វិនាទី បន្ត ងាកទៅឆ្វេង ២៦០ ដឺក្រេ។                                        
+AI:","{'action': 'move', 'params': {'linear_speed': 3.75, 'distance': 4.91, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 260, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះរ៉ូបូតយើងទៅមុខ ៨.២ ម៉ែតដើរដោយប្រើល្បឿន ១.០ ម៉ែត្រក្នុង១វិនាទី បន្ទាប់មក បង្វែស្ដាំ ៤៥ ដឺក្រេ។                                     
+AI:","{'action': 'move', 'params': {'linear_speed': 1.0, 'distance': 8.2, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 45, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ១០.៦៩ ម៉ែត្រ បើកដោយប្រើល្បឿន ៧.២ ម៉ែត/វិនាទី រួចហើយ បត់ឆ្វេង ៣១៣ ដឺក្រេ។                                               
+AI:","{'action': 'move', 'params': {'linear_speed': 7.2, 'distance': 10.69, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 313, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះរ៉ូបូតយើងទៅមុខ ៦.០៨ ម រត់ក្នុងល្បឿន ២.៨៥ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក បង្វែស្ដាំ ៥៥ ដឺក្រេ។                                         
+AI:","{'action': 'move', 'params': {'linear_speed': 2.85, 'distance': 6.08, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 55, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងតោះយើងថយក្រោយ ៣.៤៤ ម នៅល្បឿន ៩.៦៨ មក្នុង១វិនាទី បន្ត បត់ឆ្វេង ២៤៤ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 9.68, 'distance': 3.44, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 244, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ៦.៦៤ ម ប្រើល្បឿន ៩.១៥ មក្នុង១វិនាទី រួចហើយ បង្វែស្ដាំ ៣៥៣ ដឺក្រេ។                                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 9.15, 'distance': 6.64, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 353, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅមុខ ១៦.៦៦ ម រត់ក្នុងល្បឿន ១.១៥ ម៉/វិ រួចហើយ បង្វែឆ្វេង ១៥២ ដឺក្រេ។                                                           
+AI:","{'action': 'move', 'params': {'linear_speed': 1.15, 'distance': 16.66, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះទៅមុខ ៩.៤២ ម៉ែត្រ បើកដោយប្រើល្បឿន ៤.១៥ ម/វិ បន្ត ងាកទៅស្ដាំ ២៦០ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 4.15, 'distance': 9.42, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 260, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅក្រោយ ៧.១៩ ម៉ ក្នុងល្បឿន ៣.៩៤ ម៉ែត/វិនាទី បន្ទាប់មក បង្វែស្ដាំ ២៩១ ដឺក្រេ។                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 3.94, 'distance': 7.19, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 291, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅក្រោយ ១៥.១៤ ម៉ រត់ក្នុងល្បឿន ៧.២ ម៉ែត/វិនាទី បន្ត បង្វែឆ្វេង ២៦០ ដឺក្រេ។                                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 7.2, 'distance': 15.14, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 260, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះរ៉បូតយើងតោះយើងថយក្រោយ ១៩.០៦ ម៉ែត្រ ដោយល្បឿន ៤.៣៥ ម៉ែត/វិនាទី បន្ទាប់មក បង្វែឆ្វេង ១២៧ ដឺក្រេ។                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 4.35, 'distance': 19.06, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 127, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ៣.២៤ ម ប្រើល្បឿន ២.៧៧ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក បង្វែស្ដាំ ២៨៣ ដឺក្រេ។                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 2.77, 'distance': 3.24, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 283, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ហេតោះរ៉ូបូតយើងទៅមុខ ១.០៤ ម៉ ល្បឿន ៧.១៨ ម៉ែតក្នុង១វិនាទី រួចហើយ បត់ឆ្វេង ១៥២ ដឺក្រេ។                                                
+AI:","{'action': 'move', 'params': {'linear_speed': 7.18, 'distance': 1.04, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ថយក្រោយ ១២.៦៨ ម ជិះក្នុងល្បឿន ៩.១៥ ម៉ែតក្នុង១វិនាទី រួចហើយ បង្វែឆ្វេង ៣៥៣ ដឺក្រេ។                                                 
+AI:","{'action': 'move', 'params': {'linear_speed': 9.15, 'distance': 12.68, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 353, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះរ៉ូបូតយើងទៅមុខដប់បួនក្បៀសសែសិបប្រាំបីម៉ែត្រ រត់ដោយល្បឿន ១.៩៨ ម៉ែតក្នុង១វិនាទី រួចរាល់ហើយ បត់ឆ្វេង ៣៥០ ដឺក្រេ។                           
+AI:","{'action': 'move', 'params': {'linear_speed': 1.98, 'distance': 14.48, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 350, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៥.៨១ ម៉ែត្រ ជិះក្នុងល្បឿន ៦.៩៨ ម៉ែត/វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ១២៣ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 6.98, 'distance': 15.81, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 123, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះទៅមុខ ១៨.៤ ម៉ែត្រ ដោយល្បឿន ៧.២៦ ម៉ែតក្នុង១វិនាទី រួចរាល់ហើយ បត់ឆ្វេង ១៧៣ ដឺក្រេ។                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 7.26, 'distance': 18.4, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 173, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ១៩.០៦ ម៉ែត បើកបរក្នុងល្បឿន ៣.៥៦ ម៉ែតក្នុង១វិនាទី បន្ត បង្វែស្ដាំ ៨១ ដឺក្រេ។                                               
+AI:","{'action': 'move', 'params': {'linear_speed': 3.56, 'distance': 19.06, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 81, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះរ៉ូបូតយើងទៅមុខ ៨.៣៤ ម៉ នៅល្បឿន ៤.៣៥ ម៉ែត/វិនាទី រួចរាល់ហើយ ងាកទៅឆ្វេង ២៦២ ដឺក្រេ។                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 4.35, 'distance': 8.34, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 262, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ១៦.៦៦ ម៉ែត្រ ដោយល្បឿន ២.៧៧ ម/វិ បន្ត បត់ឆ្វេង ១៧៣ ដឺក្រេ។                                                           
+AI:","{'action': 'move', 'params': {'linear_speed': 2.77, 'distance': 16.66, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 173, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: ហេតោះទៅមុខ ១៦.៩៤ ម៉ែត្រ ដើរដោយប្រើល្បឿន ៤.៧៧ ម/វិ បន្ត បង្វែស្ដាំ ៨៤ ដឺក្រេ។                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 4.77, 'distance': 16.94, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 84, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅមុខ ៣.៦ ម៉ បើកបរដោយប្រើល្បឿន ៦.៩៨ ម៉ែត្រក្នុង១វិនាទី បន្ត បត់ឆ្វេង ២៧៦ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 6.98, 'distance': 3.6, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ១៦.៩៤ ម៉ែត ក្នុងល្បឿន ៨.៣៨ ម៉ែត/វិនាទី បន្ទាប់មក បង្វែស្ដាំ ២៩៨ ដឺក្រេ។                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 8.38, 'distance': 16.94, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 298, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះរ៉ូបូតយើងទៅមុខ ៤.១៧ ម៉ រត់ក្នុងល្បឿន ៦.០៣ ម៉ក្នុង១វិនាទី បន្ត ងាកទៅឆ្វេង ២៣ ដឺក្រេ។                                               
+AI:","{'action': 'move', 'params': {'linear_speed': 6.03, 'distance': 4.17, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 23, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ១១.១៦ ម៉ែត្រ ៨.០២ ម៉ែត/វិនាទី រួចរាល់ហើយ ងាកទៅស្ដាំ ២៧៦ ដឺក្រេ។                                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 8.02, 'distance': 11.16, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ៣.៦ ម ជិះក្នុងល្បឿន ៨.១៧ ម៉ែត/វិនាទី បន្ទាប់មក ងាកទៅឆ្វេង ៨៤ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 8.17, 'distance': 3.6, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 84, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ១៤.៤៨ ម៉ែត្រ ប្រើល្បឿន ១.៩៨ ម/វិ រួចរាល់ហើយ ងាកទៅឆ្វេង ៣២៤ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 1.98, 'distance': 14.48, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 324, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះទៅមុខ ១៥.៩៦ ម៉ែត្រ ដោយល្បឿន ៥.៥២ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក ងាកទៅស្ដាំ ៥៥ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 5.52, 'distance': 15.96, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 55, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៦.៤៥ ម៉ែត្រ បើកល្បឿន ២.៩៨ ម៉ែត/វិនាទី រួចរាល់ហើយ បត់ឆ្វេង ២៤៣ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 2.98, 'distance': 16.45, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 243, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ១៣.០១ ម ជិះក្នុងល្បឿន ៧.៣១ ម៉ែត/វិនាទី រួចហើយ បង្វែស្ដាំ ១៥២ ដឺក្រេ។                                                     
+AI:","{'action': 'move', 'params': {'linear_speed': 7.31, 'distance': 13.01, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: យើងទៅមុខ ១៩.០៦ ម៉ែត្រ ដោយល្បឿន ៤.៧៧ ម៉ែតក្នុង១វិនាទី រួចរាល់ហើយ ងាកទៅឆ្វេង ២៦០ ដឺក្រេ។                                           
+AI:","{'action': 'move', 'params': {'linear_speed': 4.77, 'distance': 19.06, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 260, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ១០.៣៧ ម បើកបរដោយប្រើល្បឿន ៦.៤២ មក្នុង១វិនាទី បន្ទាប់មក បត់ស្ដាំ ១៥២ ដឺក្រេ។                                        
+AI:","{'action': 'move', 'params': {'linear_speed': 6.42, 'distance': 10.37, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 152, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះរ៉ូបូតយើងទៅមុខ ៧.៧៣ ម៉ែតរត់ប្រើល្បឿន ៨.៥៧ ម៉ែត្រក្នុង១វិនាទី រួចហើយ បង្វែឆ្វេង ២៧១ ដឺក្រេ។                                         
+AI:","{'action': 'move', 'params': {'linear_speed': 8.57, 'distance': 7.73, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 271, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: បកក្រោយ ៩.៩៩ ម៉ែត្រ ជិះដោយប្រើល្បឿន ៨.៨៦ ម៉ែត/វិនាទី រួចរាល់ហើយ បត់ឆ្វេង ១៥០ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 8.86, 'distance': 9.99, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 150, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ៦.០៨ ម៉ែត្រ ជិះក្នុងល្បឿន ១.៨៧ ម៉ែត្រក្នុង១វិនាទី បន្ត បត់ស្ដាំ ៣៣៩ ដឺក្រេ។                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 1.87, 'distance': 6.08, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 339, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅក្រោយ ៣.៧៥ ម៉ែត រត់ដោយល្បឿន ២.៩២ ម៉ែតក្នុង១វិនាទី រួចរាល់ហើយ បង្វែស្ដាំ ២៥៧ ដឺក្រេ។                                              
+AI:","{'action': 'move', 'params': {'linear_speed': 2.92, 'distance': 3.75, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 257, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះរ៉បូតយើងតោះយើងថយក្រោយ ១០.៩៥ ម៉ែត្រ ដើរដោយប្រើល្បឿន ៣.៥៦ ម៉ែត/វិនាទី បន្ទាប់មក បត់ឆ្វេង ៣៥៣ ដឺក្រេ។                              
+AI:","{'action': 'move', 'params': {'linear_speed': 3.56, 'distance': 10.95, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 353, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ៣.២២ ម៉ែត្រ ដើរដោយប្រើល្បឿន ៨.០២ ម/វិ បន្ត បត់ឆ្វេង ៧២ ដឺក្រេ។                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 8.02, 'distance': 3.22, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 72, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះរ៉ូបូតយើងថយក្រោយ ២.២១ ម៉ែត បើកបរក្នុងល្បឿន ២.៧៧ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក បត់ស្ដាំ ១៥៣ ដឺក្រេ។                                     
+AI:","{'action': 'move', 'params': {'linear_speed': 2.77, 'distance': 2.21, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 153, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: តោះយើងថយក្រោយ ១៦.៦៦ ម៉ែត្រ ១.១៥ ម៉ែតក្នុង១វិនាទី បន្ទាប់មក បង្វែឆ្វេង ២៣ ដឺក្រេ។                                                 
+AI:","{'action': 'move', 'params': {'linear_speed': 1.15, 'distance': 16.66, 'is_forward': False, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 23, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: តោះរ៉ូបូតយើងទៅមុខ ១១.១៦ ម៉ នៅល្បឿន ៦.១ ម៉ក្នុង១វិនាទី បន្ទាប់មក បង្វែស្ដាំ ១២៣ ដឺក្រេ។                                               
+AI:","{'action': 'move', 'params': {'linear_speed': 6.1, 'distance': 11.16, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 123, 'is_clockwise': True, 'unit': 'degree'}}"
+"User: ទៅមុខ ១៧.៩១ ម៉ែត្រ បើកដោយប្រើល្បឿន ៨.០២ ម/វិ បន្ត បង្វែឆ្វេង ២៨១ ដឺក្រេ។                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 8.02, 'distance': 17.91, 'is_forward': True, 'unit': 'meter'}}/n{'action': 'rotate', 'params': {'angle': 281, 'is_clockwise': False, 'unit': 'degree'}}"
+"User: មកក្រោយវិញ ១៦.៤២ ម៉ែត្រ ក្នុងល្បឿន ២.០៩ ម៉ក្នុង១វិ                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 2.09, 'distance': 16.42, 'is_forward': False, 'unit': 'meter'}}"
+"User: រ៉ូបូតរ៉ូបូតជិះទៅមុខ ១៣.០២ ម៉ែត្រ រហូតដល់ល្បឿន ១.៤៦ ម៉ែត/វិ                                                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 1.46, 'distance': 13.02, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ១២.៦៥ ម៉ែត្រ ដោយល្បឿន ៥.៨៥ ម៉ែត្រ/វិ                                                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 5.85, 'distance': 12.65, 'is_forward': True, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ២.៩១ ម៉ែត្រ ល្ប ៦.៦៣ ម៉ែត្រក្នុង១វិនាទី                                                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 6.63, 'distance': 2.91, 'is_forward': True, 'unit': 'meter'}}"
+"User: បកក្រោយ ១៥.៦៤ ម៉ែត្រ ល្បឿន ១.៩៤ ម៉ែត្រក្នុង១វិនាទី                                                                           
+AI:","{'action': 'move', 'params': {'linear_speed': 1.94, 'distance': 15.64, 'is_forward': False, 'unit': 'meter'}}"
+"User: មករ៉ូបូតជិះទៅមុខ ១២.២៥ ម៉ែត្រ បើកក្នុងល្បឿន ៩.៩៩ ម៉ែត្រ/វិនាទី                                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 9.99, 'distance': 12.25, 'is_forward': True, 'unit': 'meter'}}"
+"User: មកក្រោយវិញ ៨.០៨ ម៉ែត្រ ផ្លាស់ទីក្នុងល្បឿន ២.៣៩ ម៉ែតក្នុង១វិ                                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 2.39, 'distance': 8.08, 'is_forward': False, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ១៧.៥២ ម៉ែត្រ ល្បឿនគឺ ៤.៥៩ ម៉ែត្រ/វិនាទី                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 4.59, 'distance': 17.52, 'is_forward': True, 'unit': 'meter'}}"
+"User: មករ៉ូបូតជិះទៅមុខ ១៦.៤២ ម៉ែត្រ បើកបរក្នុងល្បឿន ៨.៧៥ ម៉ែតក្នុង១វិ                                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 8.75, 'distance': 16.42, 'is_forward': True, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ១៧.០ ម៉ែត្រ ល្ប ៧.៤៦ ម៉ក្នុង១វិ                                                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 7.46, 'distance': 17.0, 'is_forward': True, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ៩.៨៨ ម៉ែត្រ ក្នុងល្បឿន ១.៥១ ម៉ែត/វិនាទី                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 1.51, 'distance': 9.88, 'is_forward': True, 'unit': 'meter'}}"
+"User: បកក្រោយ ១៨.៨៨ ម៉ែត្រ ផ្លាស់ទីក្នុងល្បឿន ៣.៤៦ ម៉ែត្រក្នុង១វិនាទី                                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 3.46, 'distance': 18.88, 'is_forward': False, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ១៦.៤២ ម៉ែត្រ ផ្លាស់ទីក្នុងល្បឿន ៩.៦៩ ម៉ែត្រក្នុង១វិនាទី                                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 9.69, 'distance': 16.42, 'is_forward': True, 'unit': 'meter'}}"
+"User: បកក្រោយ ១៤.៥៩ ម៉ែត្រ ផ្លាស់ទីក្នុងល្បឿន ៦.៦១ ម៉ែត្រ/វិនាទី                                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 6.61, 'distance': 14.59, 'is_forward': False, 'unit': 'meter'}}"
+"User: បន្តទៅមុខ ១៨.៥១ ម៉ែត្រ ជិះក្នុងល្បឿន ២.៧ ម៉ែត្រ/វិ                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 2.7, 'distance': 18.51, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតមករ៉ូបូតជិះទៅមុខ ៣.៤៣ ម៉ែត្រ ដោយល្បឿន ៧.៩ ម៉ែត/វិ                                                                         
+AI:","{'action': 'move', 'params': {'linear_speed': 7.9, 'distance': 3.43, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ៩.០២ ម៉ែត្រ ក្នុងល្បឿន ៥.៩២ ម៉ែតក្នុង១វិ                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 5.92, 'distance': 9.02, 'is_forward': True, 'unit': 'meter'}}"
+"User: ទៅមុខ ៣.៤៩ ម៉ែត្រ ក្នុងល្បឿន ១.១៥ ម៉ែត/វិ                                                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 1.15, 'distance': 3.49, 'is_forward': True, 'unit': 'meter'}}"
+"User: មករ៉ូបូតជិះទៅមុខ ១៧.៨៦ ម៉ែត្រ បើកបរក្នុងល្បឿន ១.៤៨ ម៉/វិ                                                                       
+AI:","{'action': 'move', 'params': {'linear_speed': 1.48, 'distance': 17.86, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ៦.១៦ ម៉ែត្រ រហូតដល់ល្បឿន ៥.៣៨ ម៉ក្នុង១វិ                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 5.38, 'distance': 6.16, 'is_forward': True, 'unit': 'meter'}}"
+"User: ទៅមុខ ៣.៨២ ម៉ែត្រ ល្បឿនដែលត្រួវជិះគឺ ៣.២៣ ម៉ែត/វិនាទី                                                                         
+AI:","{'action': 'move', 'params': {'linear_speed': 3.23, 'distance': 3.82, 'is_forward': True, 'unit': 'meter'}}"
+"User: ទៅមុខ ១៩.៣៤ ម៉ែត្រ ល្បឿនដែលត្រួវជិះគឺ ៩.៦២ ម៉ក្នុង១វិ                                                                          
+AI:","{'action': 'move', 'params': {'linear_speed': 9.62, 'distance': 19.34, 'is_forward': True, 'unit': 'meter'}}"
+"User: រ៉ូបូតទៅមុខ ១៣.៩៣ ម៉ែត្រ ល្ប ៩.១៣ ម៉ែត/វិ                                                                                   
+AI:","{'action': 'move', 'params': {'linear_speed': 9.13, 'distance': 13.93, 'is_forward': True, 'unit': 'meter'}}"
+"User: ជិះថយក្រោយ ២.៤ ម៉ែត្រ ល្បឿន ៣.៤៣ ម៉ែតក្នុង១វិ                                                                               
+AI:","{'action': 'move', 'params': {'linear_speed': 3.43, 'distance': 2.4, 'is_forward': False, 'unit': 'meter'}}"
+"User: ជិះថយក្រោយ ១២.៤៥ ម៉ែត្រ ល្បឿន ៤.៣៥ ម៉ែត/វិនាទី                                                                             
+AI:","{'action': 'move', 'params': {'linear_speed': 4.35, 'distance': 12.45, 'is_forward': False, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ៦.៧១ ម៉ែត្រ ផ្លាស់ទីក្នុងល្បឿន ២.៥៣ ម៉ែត្រ/វិនាទី                                                                      
+AI:","{'action': 'move', 'params': {'linear_speed': 2.53, 'distance': 6.71, 'is_forward': True, 'unit': 'meter'}}"
+"User: ទៅមុខ ១៩.៧១ ម៉ែត្រ ល្បឿនគឺ ៧.៨៣ ម៉ែត្រក្នុង១វិនាទី                                                                            
+AI:","{'action': 'move', 'params': {'linear_speed': 7.83, 'distance': 19.71, 'is_forward': True, 'unit': 'meter'}}"
+"User: មករ៉ូបូតរ៉ូបូតបើកទៅមុខ ១៧.០១ ម៉ែត្រ រហូតដល់ល្បឿន ៨.៩ ម៉ែត/វិនាទី                                                                  
+AI:","{'action': 'move', 'params': {'linear_speed': 8.9, 'distance': 17.01, 'is_forward': True, 'unit': 'meter'}}"
+"User: យើងទៅមុខ ១៤.៩៤ ម៉ែត្រ ល្បឿន ៩.១៦ ម៉/វិនាទី                                                                                
+AI:","{'action': 'move', 'params': {'linear_speed': 9.16, 'distance': 14.94, 'is_forward': True, 'unit': 'meter'}}"
+"User: មករ៉ូបូតជិះទៅមុខ ១០.៩២ ម៉ែត្រ ដោយល្បឿន ៤.៦៣ ម៉ក្នុង១វិ                                                                         
+AI:","{'action': 'move', 'params': {'linear_speed': 4.63, 'distance': 10.92, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ៣៣៤ ដឺក្រេ ក្នុងល្បឿន ៦ ម៉/វិ                                                                                     
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 6, 'angle': 334, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: បង្វែឆ្វេង ៨៣ ដឺក្រេ ក្នុងល្បឿន ៧ ម៉ែត/វិនាទី                                                                                
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 7, 'angle': 83, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ២២៣ ដឺក្រេ ក្នុងល្បឿន ៩ ម/វិនាទី                                                                                    
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 223, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ១៧៥ ដឺក្រេ  ៩ ម៉ែត/វិនាទី                                                                                         
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 175, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: ងាកទៅស្ដាំ ៣១៧ ដឺក្រេ ដោយល្បឿន ២ ម៉ែត្រក្នុង១វិនាទី                                                                           
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 2, 'angle': 317, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ១៥៣ ដឺក្រេ រហូតដល់ល្បឿន ២ ម៉ែតក្នុង១វិ                                                                            
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 2, 'angle': 153, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បង្វែឆ្វេង ២១ ដឺក្រេ ល្បឿន ៦ ម៉ែត្រក្នុង១វិនាទី                                                                               
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 6, 'angle': 21, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ២៨៣ ដឺក្រេ ដោយល្បឿន ៣ ម៉ែត្រ/វិនាទី                                                                             
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 3, 'angle': 283, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ២៧១ ដឺក្រេ ដោយល្បឿន ៨ ម៉ែត/វិ                                                                                     
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 8, 'angle': 271, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: បង្វែស្ដាំ ១០៩ ដឺក្រេ ក្នុងល្បឿន ៥ ម៉ែត្រក្នុង១វិនាទី                                                                            
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 5, 'angle': 109, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: ងាកទៅស្ដាំ ៣១១ ដឺក្រេ៥ ម៉ែតក្នុង១វិ                                                                                        
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 5, 'angle': 311, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: បត់ឆ្វេង ២៣០ ដឺក្រេ ក្នុងល្បឿន ៩ ម៉/វិនាទី                                                                                   
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 230, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ៣៣៤ ដឺក្រេ ក្នុងល្បឿន ៨ ម៉ែត្រក្នុង១វិនាទី                                                                          
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 8, 'angle': 334, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ១៦៥ ដឺក្រេ ដោយល្បឿន ២ ម៉ែត/វិ                                                                                 
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 2, 'angle': 165, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ១០២ ដឺក្រេ  ៦ ម៉ែត/វិ                                                                                            
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 6, 'angle': 102, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ៤៨ ដឺក្រេ ប្រើល្បឿន ៨ ម៉ែត្រក្នុង១វិនាទី                                                                           
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 8, 'angle': 48, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ៩៤ ដឺក្រេ ដោយល្បឿន ២ ម៉ែត្រ/វិនាទី                                                                              
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 2, 'angle': 94, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ៥០ ដឺក្រេ ដោយល្បឿន ៩ ម៉ែត្រ/វិនាទី                                                                                  
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 50, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: បង្វែឆ្វេង ២០៧ ដឺក្រេ ក្នុងល្បឿន ២ ម៉ែតក្នុង១វិ                                                                               
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 2, 'angle': 207, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ឆ្វេង ៣២២ ដឺក្រេ ក្នុងល្បឿន ៩ ម៉ែត/វិនាទី                                                                                 
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 322, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បង្វែឆ្វេង ២៥៥ ដឺក្រេ ក្នុងល្បឿន ៣ ម៉ែត្រ/វិនាទី                                                                              
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 3, 'angle': 255, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ឆ្វេង ៨៦ ដឺក្រេ ល្បឿន ៩ ម៉ែត្រ/វិ                                                                                       
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 86, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បង្វែឆ្វេង ១៣៤ ដឺក្រេ ក្នុងល្បឿន ៦ ម៉ែតក្នុង១វិ                                                                               
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 6, 'angle': 134, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បង្វែឆ្វេង ១៥២ ដឺក្រេ ក្នុងល្បឿន ១ ម៉/វិ                                                                                    
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 1, 'angle': 152, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ២៥២ ដឺក្រេ ក្នុងល្បឿន ៣ ម៉ែតក្នុង១វិ                                                                              
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 3, 'angle': 252, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បង្វែស្ដាំ ១៣៣ ដឺក្រេ រហូតដល់ល្បឿន ៨ ម៉ែត្រក្នុង១វិនាទី                                                                          
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 8, 'angle': 133, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: ងាកទៅឆ្វេង ៣២១ ដឺក្រេ ក្នុងល្បឿន ៥ ម៉ែត្រក្នុង១វិនាទី                                                                          
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 5, 'angle': 321, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: បត់ឆ្វេង ២៦៧ ដឺក្រេ ល្បឿន ៥ ម៉ែត្រ/វិនាទី                                                                                   
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 5, 'angle': 267, 'is_clockwise': false, 'unit': 'degrees'}}"
+"User: ងាកទៅស្ដាំ ៣៧ ដឺក្រេ ក្នុងល្បឿន ៦ ម៉ែត្រក្នុង១វិនាទី                                                                            
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 6, 'angle': 37, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ២៥៨ ដឺក្រេ ដោយល្បឿន ៩ ម៉ែតក្នុង១វិនាទី                                                                               
+AI:","{'action': 'rotate', 'params': {'angular_velocity': 9, 'angle': 258, 'is_clockwise': true, 'unit': 'degrees'}}"
+"User: សូមមេត្តាបត់ ឆ្វេង ១៦២ ដឺក្រេ                                                                                            
+AI:","{'action': 'rotate', 'params': {'angle': 162, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: ចូលងាក ស្ដាំ ៤៣ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 43, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: បង្វិល ឆ្វេង ១២៩ ដឺក្រេ                                                                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 129, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: ងាក ស្ដាំ ១២៣ ដឺក្រេ                                                                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 123, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: សូមបត់ ស្ដាំ ៦៩ ដឺក្រេ                                                                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 69, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ធ្វើការបត់ ស្ដាំ ២៨ ដឺក្រេ                                                                                               
+AI:","{'action': 'rotate', 'params': {'angle': 28, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: បត់ ឆ្វេង ១៤៦ ដឺក្រេ                                                                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 146, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: សូមបត់ ស្ដាំ ១០៤ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 104, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: សូមបត់ ស្ដាំ ១២៨ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 128, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ធ្វើការបត់ ស្ដាំ ៣ ដឺក្រេ                                                                                                
+AI:","{'action': 'rotate', 'params': {'angle': 3, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ចូលងាក ស្ដាំ ៧៦ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 76, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ងាក ឆ្វេង ១២០ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 120, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: រ៉ូបូតងាកទៅ ឆ្វេង ៩១ ដឺក្រេ                                                                                              
+AI:","{'action': 'rotate', 'params': {'angle': 91, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: ចូលបត់ ស្ដាំ ៦៣ ដឺក្រេ                                                                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 63, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: សូមបត់ ឆ្វេង ៤៣ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 43, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: បត់ ស្ដាំ ៧៧ ដឺក្រេ                                                                                                     
+AI:","{'action': 'rotate', 'params': {'angle': 77, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ចូលបត់ ស្ដាំ ១០២ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 102, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ចូលបត់ ឆ្វេង ១០៩ ដឺក្រេ                                                                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 109, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: សូមមេត្តាបត់ ឆ្វេង ៦៨ ដឺក្រេ                                                                                             
+AI:","{'action': 'rotate', 'params': {'angle': 68, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: បត់ ឆ្វេង ៩២ ដឺក្រេ                                                                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 92, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: សូមមេត្តាបត់ ស្ដាំ ៦៨ ដឺក្រេ                                                                                              
+AI:","{'action': 'rotate', 'params': {'angle': 68, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: រ៉ូបូតបែ ស្ដាំ ៦៦ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 66, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: ចូលបត់ ឆ្វេង ១៤ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 14, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: ងាក ឆ្វេង ៣៣ ដឺក្រេ                                                                                                   
+AI:","{'action': 'rotate', 'params': {'angle': 33, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: ចូលបត់ ឆ្វេង ១៣៨ ដឺក្រេ                                                                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 138, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: បត់ ឆ្វេង ៤១ ដឺក្រេ                                                                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 41, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: ចូលបត់ ឆ្វេង ៦៧ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 67, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: បង្វិល ឆ្វេង ៣៦ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 36, 'is_clockwise': False, 'unit': 'degrees'}}"
+"User: រ៉ូបូតងាកទៅ ស្ដាំ ១៧៨ ដឺក្រេ                                                                                              
+AI:","{'action': 'rotate', 'params': {'angle': 178, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: សូមបត់ ស្ដាំ ១៦១ ដឺក្រេ                                                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 161, 'is_clockwise': True, 'unit': 'degrees'}}"
+"User: បត់ស្ដាំ ២០៨ ដឺក្រេ បន្ត បកក្រោយ ១០.៨៤ ម៉ែត្រ ក្នុងល្បឿន ៨.៣៩ ម៉ែតក្នុង១វិ                                                         
+AI:","{'action': 'rotate', 'params': {'angle': 208, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.39, 'distance': 10.84, 'is_forward': False, 'unit': 'meter'}}"
+"User: ងាកទៅឆ្វេង ២៩៣ ដឺក្រេ បន្ត បន្តទៅមុខ ១៩.៨៩ ម៉ែត្រ ក្នុងល្បឿន ៧.២៣ ម៉/វិនាទី                                                      
+AI:","{'action': 'rotate', 'params': {'angle': 293, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 7.23, 'distance': 19.89, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ២៤៥ ដឺក្រេ រួចយើងទៅមុខ ៥.៨៧ ម៉ែត្រ រហូតដល់ល្បឿន ២.៦៦ ម៉ែត្រ/វិនាទី                                                      
+AI:","{'action': 'rotate', 'params': {'angle': 245, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.66, 'distance': 5.87, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២៧៣ ដឺក្រេ រួចថយត្រឡប់ក្រោយ ៩.៤១ ម៉ែត្រ រហូតដល់ល្បឿន ២.០៩ ម៉/វិនាទី                                                     
+AI:","{'action': 'rotate', 'params': {'angle': 273, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.09, 'distance': 9.41, 'is_forward': False, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២៤១ ដឺក្រេ រួចយើងទៅមុខ ៩.៣២ ម៉ែត្រ រហូតដល់ល្បឿន ៩.៣ ម៉ែត្រ/វិនាទី                                                      
+AI:","{'action': 'rotate', 'params': {'angle': 241, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.3, 'distance': 9.32, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ៣៥៣ ដឺក្រេ បន្ទាប់មក ថយត្រឡប់ក្រោយ ១៨.១២ ម៉ែត្រ ក្នុងល្បឿន ៩.៦៧ ម៉ែត្រ/វិនាទី                                              
+AI:","{'action': 'rotate', 'params': {'angle': 353, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.67, 'distance': 18.12, 'is_forward': False, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២២៧ ដឺក្រេ រួចទៅមុខ ១៩.៣២ ម៉ែត្រ រហូតដល់ល្បឿន ៥.០៣ ម៉ែត្រក្នុង១វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 227, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.03, 'distance': 19.32, 'is_forward': True, 'unit': 'meter'}}"
+"User: ងាកទៅឆ្វេង ២៧២ ដឺក្រេ បន្ទាប់មក ទៅមុខ ២.៧៤ ម​ ដោយល្បឿន ៩.០២ ម៉ែត្រ/វិនាទី                                                      
+AI:","{'action': 'rotate', 'params': {'angle': 272, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.02, 'distance': 2.74, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ១២៦ ដឺក្រេ ហើយបន្តទៅមុខ ១២.៥២ ម៉ែត្រ រហូតដល់ល្បឿន ២.៦៩ ម៉ែត្រក្នុង១វិនាទី                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 126, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.69, 'distance': 12.52, 'is_forward': True, 'unit': 'meter'}}"
+"User: ងាកទៅស្ដាំ ២៧៦ ដឺក្រេ ហើយបន្តថយត្រឡប់ក្រោយ ២.៦៥ ម៉ែត្រ ក្នុងល្បឿន ១.៩១ ម៉ែត្រក្នុង១វិនាទី                                             
+AI:","{'action': 'rotate', 'params': {'angle': 276, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 1.91, 'distance': 2.65, 'is_forward': False, 'unit': 'meter'}}"
+"User: បង្វែឆ្វេង ២៨៧ ដឺក្រេ បន្ត ទៅមុខ ៣.៨២ ម៉ែត្រ ដោយល្បឿន ៨.២ ម៉/វិ                                                               
+AI:","{'action': 'rotate', 'params': {'angle': 287, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.2, 'distance': 3.82, 'is_forward': True, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ៣៤០ ដឺក្រេ បន្ទាប់មក ទៅក្រោយ ២.៥៩ ម៉ែត្រ ក្នុងល្បឿន ៦.៧១ ម៉ក្នុង១វិ                                                        
+AI:","{'action': 'rotate', 'params': {'angle': 340, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 6.71, 'distance': 2.59, 'is_forward': False, 'unit': 'meter'}}"
+"User: ងាកទៅឆ្វេង ១៩៥ ដឺក្រេ បន្ត យើងទៅមុខ ១៣.៣៨ ម៉ែត្រ ដោយល្បឿន ៤.០១ ម៉ែត/វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 195, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 4.01, 'distance': 13.38, 'is_forward': True, 'unit': 'meter'}}"
+"User: ងាកទៅស្ដាំ ១១៩ ដឺក្រេ រួចបកក្រោយ ១៣.៧៨ ម៉ែត្រ ក្នុងល្បឿន ៩.៦៥ ម៉ែត/វិនាទី                                                        
+AI:","{'action': 'rotate', 'params': {'angle': 119, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.65, 'distance': 13.78, 'is_forward': False, 'unit': 'meter'}}"
+"User: ងាកទៅស្ដាំ ២៦៥ ដឺក្រេ រួចបកក្រោយ ១២.៨៥ ម៉ែត្រ ដោយល្បឿន ៨.៦ ម/វិ                                                              
+AI:","{'action': 'rotate', 'params': {'angle': 265, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.6, 'distance': 12.85, 'is_forward': False, 'unit': 'meter'}}"
+"User: ងាកទៅស្ដាំ ១៤៤ ដឺក្រេ ហើយបន្តទៅមុខ ៧.៣៤ ម៉ែត្រ ក្នុងល្បឿន ៩.៥៤ ម៉ែតក្នុង១វិ                                                       
+AI:","{'action': 'rotate', 'params': {'angle': 144, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.54, 'distance': 7.34, 'is_forward': True, 'unit': 'meter'}}"
+"User: ងាកទៅឆ្វេង ៣១៨ ដឺក្រេ ហើយបន្តទៅមុខ ៩.៧៨ ម៉ែត្រ ដោយល្បឿន ៣.៣៣ ម៉ែត/វិនាទី                                                      
+AI:","{'action': 'rotate', 'params': {'angle': 318, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 3.33, 'distance': 9.78, 'is_forward': True, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ២៩២ ដឺក្រេ រួចទៅក្រោយ ៦.៧៥ ម៉ែត្រ រហូតដល់ល្បឿន ៨.៨៦ ម៉ែត្រក្នុង១វិនាទី                                                     
+AI:","{'action': 'rotate', 'params': {'angle': 292, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 8.86, 'distance': 6.75, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ២៧៨ ដឺក្រេ បន្ទាប់មក រ៉ូបូតទៅមុខ ១២.៣៦ ម៉ែត្រ ក្នុងល្បឿន ២.៥៥ ម៉ែត្រក្នុង១វិនាទី                                               
+AI:","{'action': 'rotate', 'params': {'angle': 278, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 2.55, 'distance': 12.36, 'is_forward': True, 'unit': 'meter'}}"
+"User: ងាកទៅស្ដាំ ១៨៦ ដឺក្រេ ហើយបន្តបកក្រោយ ៦.៦២ ម៉ែតដោយល្បឿន ៩.១៤ ម៉/វិនាទី                                                         
+AI:","{'action': 'rotate', 'params': {'angle': 186, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.14, 'distance': 6.62, 'is_forward': False, 'unit': 'meter'}}"
+"User: ងាកទៅឆ្វេង ១២៣ ដឺក្រេ ហើយបន្តយើងទៅមុខ ១៨.២១ ម៉ែត្រ រហូតដល់ល្បឿន ៦.១ ម៉ែត/វិនាទី                                                 
+AI:","{'action': 'rotate', 'params': {'angle': 123, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 6.1, 'distance': 18.21, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ២៩៦ ដឺក្រេ បន្ទាប់មក ទៅក្រោយ ៥.០៥ ម៉ែត្រ ក្នុងល្បឿន ១.៧៤ ម៉ែត/វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 296, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 1.74, 'distance': 5.05, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ៣៣៦ ដឺក្រេ ហើយបន្តទៅមុខ ៤.៦៩ ម៉ែត្រ ដោយល្បឿន ៩.៩៣ ម៉ែត/វិ                                                            
+AI:","{'action': 'rotate', 'params': {'angle': 336, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.93, 'distance': 4.69, 'is_forward': True, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ១៣៤ ដឺក្រេ ហើយបន្តបកក្រោយ ៣.១៨ មក្នុងល្បឿន ៩.០៨ ម៉ែតក្នុង១វិ                                                            
+AI:","{'action': 'rotate', 'params': {'angle': 134, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 9.08, 'distance': 3.18, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ៦៣ ដឺក្រេ រួចយើងទៅមុខ ២.០២ ម​ដោយល្បឿន ៦.៤៥ ម៉/វិនាទី                                                                  
+AI:","{'action': 'rotate', 'params': {'angle': 63, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 6.45, 'distance': 2.02, 'is_forward': True, 'unit': 'meter'}}"
+"User: បង្វែស្ដាំ ២៨៩ ដឺក្រេ បន្ត ទៅមុខ ៣.២៧ ម​ ក្នុងល្បឿន ៥.៤២ ម៉ែត្រ/វិ                                                               
+AI:","{'action': 'rotate', 'params': {'angle': 289, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.42, 'distance': 3.27, 'is_forward': True, 'unit': 'meter'}}"
+"User: ងាកទៅឆ្វេង ១០២ ដឺក្រេ ហើយបន្តទៅក្រោយ ១៤.៧ ម​ដោយល្បឿន ៥.៧៦ ម៉ែត្រក្នុង១វិនាទី                                                    
+AI:","{'action': 'rotate', 'params': {'angle': 102, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.76, 'distance': 14.7, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ២៨៣ ដឺក្រេ បន្ត ទៅក្រោយ ១២.១៦ ម៉ែត្រ ដោយល្បឿន ៧.៣៩ ម៉ែត្រ/វិនាទី                                                        
+AI:","{'action': 'rotate', 'params': {'angle': 283, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 7.39, 'distance': 12.16, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ឆ្វេង ២១៨ ដឺក្រេ រួចទៅក្រោយ ១៩.៦១ ម៉ែត្រ រហូតដល់ល្បឿន ៥.០១ ម៉ែត្រ/វិនាទី                                                       
+AI:","{'action': 'rotate', 'params': {'angle': 218, 'is_clockwise': False, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 5.01, 'distance': 19.61, 'is_forward': False, 'unit': 'meter'}}"
+"User: បត់ស្ដាំ ៣៤ ដឺក្រេ បន្ត ទៅមុខ ៨.២៨ ម៉ែត្រ រហូតដល់ល្បឿន ១.២២ ម៉ែត្រ/វិនាទី                                                          
+AI:","{'action': 'rotate', 'params': {'angle': 34, 'is_clockwise': True, 'unit': 'degree'}}\n{'action': 'move', 'params': {'linear_speed': 1.22, 'distance': 8.28, 'is_forward': True, 'unit': 'meter'}}"
+"User: សំណង់អគារ                                                                                                            
+AI:",{{''}}
+"User: ផ្សារតូច                                                                                                             
+AI:",{{''}}
+"User: តោះងាក                                                                                                             
+AI:",{{''}}
+"User: សាលារៀនអន្តរជាតិ                                                                                                     
+AI:",{{''}}
+"User: អាគារសម្រាក                                                                                                         
+AI:",{{''}}
+"User: អាកាសយានដ្ឋាន                                                                                                       
+AI:",{{''}}
+"User: ស្ថានីយ៍ស៊ើបអង្កេត                                                                                                      
+AI:",{{''}}
+"User: សាលាបឋមសិក្សា                                                                                                        
+AI:",{{''}}
+"User: កន្លែងសម្រាក                                                                                                         
+AI:",{{''}}
+"User: ផ្សារកម្មសិទ្ធិ                                                                                                         
+AI:",{{''}}
+"User: ផ្សារទំនើប                                                                                                           
+AI:",{{''}}
+"User: បត់ស្ដាំ                                                                                                              
+AI:","{'action': 'rotate', 'params': {'angle': 90, 'is_clockwise': true,'unit': 'degree'}}"
+"User: បត់ឆ្វេង                                                                                                             
+AI:","{'action': 'rotate', 'params': {'angle': 90, 'is_clockwise': false,'unit': 'degree'}}"
